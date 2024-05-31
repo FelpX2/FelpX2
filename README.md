@@ -1,7 +1,7 @@
 ## Opa, e aí devs. Tudo beleza ?
 
 <div> 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FelpX2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img  height="165em" src="https://github-readme-stats.vercel.app/api?username=FelpX2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelpX2&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 <br>
